@@ -1,9 +1,14 @@
 Note: This is a fork from http://github.com/kgn/KGNoise. The reason I make this fork is that the creator does not push the latest version to cocoapods. If you would like to use the features in the latest version (for the time being, v1.2.0) like UIImage extension, you can use this fork in cocoapods.
 
 Use with cocoapods:
+
+```
 pod 'KGNoise@tonyzonghui', '1.2.0'
+```
 
 I make the tag number the same as the original repository, so that when the creator update the cocoapods you can easily switch back.
+
+
 
 ![](https://raw.github.com/kgn/KGNoise/master/screenshot.jpg)
 
