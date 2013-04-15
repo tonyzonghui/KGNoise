@@ -3,7 +3,7 @@ Note: This is a fork from http://github.com/kgn/KGNoise. The reason I make this 
 Use with cocoapods:
 
 ```
-pod 'KGNoise@tonyzonghui', '1.2.0'
+Pod 'KGNoise@tonyzonghui', '1.2.0'
 ```
 
 I make the tag number the same as the original repository, so that when the creator update the cocoapods you can easily switch back.
