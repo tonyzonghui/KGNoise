@@ -1,3 +1,10 @@
+Note: This is a fork from http://github.com/kgn/KGNoise. The reason I make this fork is that the creator does not push the latest version to cocoapods. If you would like to use the features in the latest version (for the time being, v1.2.0) like UIImage extension, you can use this fork in cocoapods.
+
+Use with cocoapods:
+pod 'KGNoise@tonyzonghui', '1.2.0'
+
+I make the tag number the same as the original repository, so that when the creator update the cocoapods you can easily switch back.
+
 ![](https://raw.github.com/kgn/KGNoise/master/screenshot.jpg)
 
 I've been developing this noise drawing code for quite some time. It all started with drawing noise in the title bar of [INAppStoreWindow](https://github.com/indragiek/INAppStoreWindow). The original implementation of the noise drawing for the titlebar used `CIFilter`, but this took up an unusual amount of memory and also didn't look so great. So I began my quest for the best noise drawing solution, this project contains the third version which I feel is finally ready for prime time on the Mac and iOS! 
