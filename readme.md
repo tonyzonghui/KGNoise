@@ -1,4 +1,6 @@
-Note: This is a fork from http://github.com/kgn/KGNoise. The reason I make this fork is that the creator does not push the latest version to cocoapods. If you would like to use the features in the latest version (for the time being, v1.2.0) like UIImage extension, you can use this fork in cocoapods.
+Note: This is a fork from http://github.com/kgn/KGNoise. The reason I make this fork is that the creator has not push the latest version to cocoapods. If you would like to use the features in the latest version (for the time being, v1.2.0) like UIImage extension, you can use this fork in cocoapods.
+
+Updates: The creator has updated the latest version in cocoapods. Please use the original version for new updates. Thanks kgn for such a great project! http://github.com/kgn/KGNoise
 
 Use with cocoapods:
 
